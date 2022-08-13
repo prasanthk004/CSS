@@ -81,3 +81,32 @@ p[width='200px']
     color:darkviolet;
     
 }
+
+#boxes
+{
+    background-color: lightslategray;
+    padding: 20px;
+    margin: 25px;
+    border:dotted 2px;
+    width: 1000px;
+
+}
+
+
+#disV
+{
+    /* display:none; */
+    /* visibility: hidden; */
+}
+
+ .listTest
+{
+
+    display: inline-block;
+    width: 200px;
+    background-color:rgb(255, 155, 25);
+    border:dotted 3px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 20px;
+
+}
